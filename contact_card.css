@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Palatino Linotype", "Book Antiqua", "Palatino", serif;    
+}
+.container{
+    display: inline-block;
+    width: 840px;
+    padding: 10px;
+}
+.contact_form{
+    display: inline-block;
+    vertical-align: top;
+    width: 320px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #d8e3e7;
+    border: 1px solid #002244;
+    box-shadow: 3px 3px 6px #252525;
+}
+h1{
+    margin-bottom: 10px;
+    padding: 0px 0px 0px 5px;
+    text-align: center;
+    font-size: 135%;
+    color: #002244;
+    border-bottom: 1px solid #002244;
+}
+label{
+    width: 90px;
+    display: inline-block;
+    padding: 5px;
+    font-weight: bold;
+    color: #002244;
+}
+input{
+    display: inline-block;
+    width: 193px;
+    font-size: 100%;
+    font-style: italic;
+    color: #a5acaf;
+    border: .5px solid #002244;
+}
+textarea{
+    margin-left: 6px;
+    font-size: 100%;
+    font-style: italic;
+    color: #a5acaf;
+    border: .5px solid #002244;
+}
+button{
+    display: block;
+    width: 100px;
+    margin: 10px auto;
+    padding: 5px 10px;
+    font-size: 100%;
+    font-weight: bold;
+    color: #a5acaf;
+    background-color: #002244;
+    border-radius: 5px;
+    box-shadow: 3px 3px 6px #252525;
+}
+.contact_card{
+    display: inline-block;
+    vertical-align: top;
+    width: 400px;
+    margin: 10px 20px;
+    height: 400px;
+}
+.contact_card div{
+    display: inline-block;
+    width: 350px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #d8e3e7;
+    border: 1px solid #002244;
+    box-shadow: 3px 3px 6px #252525;
+}
+h2{
+    text-align: center;
+    font-size: 150%;
+    color: #002244;
+}
+a{
+    display: block;
+    padding: 5px;
+    text-align: center;
+    text-decoration-line: none;
+    font-style: italic;
+    color: #002244;
+}
+p{
+    display: none;
+    color: #002244;
+}
